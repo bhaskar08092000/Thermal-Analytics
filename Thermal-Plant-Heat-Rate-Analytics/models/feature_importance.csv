@@ -1,0 +1,10 @@
+feature,importance
+main_steam_temp_c,0.3956545419618934
+load_mw,0.33064504992445504
+main_steam_pressure_mpa,0.12898792263013803
+coal_gcv_kcal_kg,0.07207879830479362
+ambient_temp_c,0.024046447860137293
+boiler_efficiency_pct,0.018188361684974324
+aux_power_pct,0.012087534191360638
+condenser_vacuum_bar,0.00921223530507564
+reheat_temp_c,0.009099108137172091
